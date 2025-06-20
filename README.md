@@ -36,7 +36,7 @@ Coming soon:
 
 Interested in collaborating, reproducing results, or extending this work into clinical or computational frameworks?  
 Contact: **A.C Demidont, DO**  
-✉️ acddemidont@nyxdynamics.com  
+✉️ acdemidont@nyxdynamics.com  
 Linkedin: www.linkedin.com/company/nyx-dynamics-llc
 🔗 [ORCID](https://orcid.org/0000-0002-XXXX-XXXX)
 SciProfiles: https://sciprofiles.com/profile/acdemidont
